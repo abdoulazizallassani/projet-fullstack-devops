@@ -1,0 +1,16 @@
+2025-03-29T14:11:09.347Z [INFO]: 🚀 Serveur démarré sur http://localhost:3000
+2025-03-29T14:11:38.686Z [INFO]: 🚀 Serveur démarré sur http://localhost:3000
+2025-03-29T14:14:13.158Z [INFO]: 🚀 Serveur démarré sur http://localhost:3000
+2025-03-29T14:15:32.878Z [INFO]: 🚀 Serveur démarré sur http://localhost:3000
+2025-03-29T14:28:48.108Z [INFO]: 🚀 Serveur démarré sur http://localhost:3000
+2025-03-29T14:31:18.539Z [INFO]: 🚀 Serveur démarré sur http://localhost:3000
+2025-03-29T17:18:28.900Z [INFO]: ✅ Express initialisé
+2025-03-29T17:18:29.117Z [INFO]: ✅ Connexion à MongoDB réussie
+2025-03-29T17:24:15.433Z [INFO]: ✅ Express initialisé
+2025-03-29T17:24:15.503Z [INFO]: ✅ Connexion à MongoDB réussie
+2025-03-29T17:28:22.477Z [INFO]: ✅ Express initialisé
+2025-03-29T17:28:22.479Z [INFO]: Chargement des variables d'environnement...
+2025-03-29T17:28:22.479Z [INFO]: MONGO_URI chargée: mongodb://admin:passer123@localhost:27017/fstackDevops_db?authSource=admin
+2025-03-29T17:28:22.479Z [INFO]: Port configuré: 4000
+2025-03-29T17:28:22.482Z [INFO]: 🚀 Serveur démarré sur http://localhost:4000
+2025-03-29T17:28:22.534Z [INFO]: ✅ Connexion à MongoDB réussie
